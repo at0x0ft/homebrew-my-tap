@@ -1,4 +1,4 @@
-# At0x0ft My-tap
+# at0x0ft My-tap
 
 ## How do I install these formulae?
 
