@@ -7,5 +7,5 @@ cask "font-myricam-nf" do
   name "MyricaM NF"
   homepage "https://github.com/tsunesan3/awsome-jp-coding-fonts/blob/master/README.md#myricam"
 
-  font "MyricaM/MyricaM.ttf"
+  font "awsome-jp-coding-fonts-#{version[1..-1]}/MyricaM/MyricaM.ttf"
 end
